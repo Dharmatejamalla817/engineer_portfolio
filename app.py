@@ -12,7 +12,7 @@ def home():
         "phone": "+91 8179015198",
         "linkedin": "https://www.linkedin.com/in/dharmatejamalla",
         "github": "https://github.com/Dharmatejamalla817",
-        "college": "Gayatri Vidya Parishad College of Engineering",
+        "college": "Gayatri Vidya Parishad College for Degree and PG Courses(A)",
         "degree": "B.Tech in Electronics & Communication Engineering (2022 – 2026)",
         "cgpa": "7.13",
         "training": "Full-Stack Web Development Trainee at NxtWave Academy"
