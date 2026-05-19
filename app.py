@@ -21,6 +21,14 @@ def home():
     # Complete updated project portfolio matrix with correct Swetha Parlour repository
     projects = [
         {
+            "title": "LendSwift: Enterprise Multi-Step Digital Loan Onboarding & Compliance System",
+            "category": "Commercial Full-Stack Application",
+            "desc": "LendSwift is a production-ready, front-end multi-step loan origination dashboard engineered to optimize customer onboarding while enforcing regulatory guardrails inspired by the RBI Digital Lending Guidelines.",
+            "tech": ["JavaScript(ES6+)","React(v18+)","Tailwind CSS" ," Zod ", "React Hook Form"],
+            "link": "https://github.com/Dharmatejamalla817/lendswift-loan-form"
+            "live-link": "https://lendswift-loan-form.vercel.app/"
+        },
+        {
             "title": "Swetha Beauty Parlor Platform",
             "category": "Commercial Full-Stack Application",
             "desc": "Designed and developed a dynamic web application to automate the appointment booking pipeline for a local business, completely replacing manual physical scheduling with a resilient digital workflow engine.",
@@ -32,7 +40,7 @@ def home():
             "category": "Full-Stack Software Architecture",
             "desc": "A high-ticket, minimalist spatial asset deployment system featuring client-side session caching to isolate guest state and automated situational UI morphing based on background time parameters.",
             "tech": ["Python", "Flask", "SQLite", "JavaScript ES6", "Git"],
-            "link": "https://github.com/Dharmatejamalla817/terranova-land-asset-portal"
+            "link": "https://github.com/Dharmatejamalla817/terranova-land-asset-portal"  
         },
         {
             "title": "Gourmet Hub Dispatch Console",
