@@ -25,7 +25,7 @@ def home():
             "category": "Fintech / Web Application Architecture / Financial Engineering",
             "desc": "LendSwift is a production-ready, front-end multi-step loan origination dashboard engineered to optimize customer onboarding while enforcing regulatory guardrails inspired by the RBI Digital Lending Guidelines.",
             "tech": ["JavaScript(ES6+)","React(v18+)","Tailwind CSS" ," Zod ", "React Hook Form"],
-            "link": "https://github.com/Dharmatejamalla817/lendswift-loan-form"
+            "link": "https://github.com/Dharmatejamalla817/lendswift-loan-form",
             "link": "https://lendswift-loan-form.vercel.app/"
         },
         {
@@ -33,7 +33,7 @@ def home():
             "category": "Commercial Full-Stack Application",
             "desc": "Designed and developed a dynamic web application to automate the appointment booking pipeline for a local business, completely replacing manual physical scheduling with a resilient digital workflow engine.",
             "tech": ["Python", "Flask", "HTML5", "CSS3", "Bootstrap", "Render"],
-            "link": "https://github.com/Dharmatejamalla817/swetha-parlour-webb"
+            "link": "https://github.com/Dharmatejamalla817/swetha-parlour-webb",
             "link": "https://swetha-parlour-webb.onrender.com"
             
         },
